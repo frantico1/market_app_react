@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "master": "market-barkod",
+    "default": "market-barkod"
+  },
+  "targets": {},
+  "etags": {}
+}
